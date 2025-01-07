@@ -8,7 +8,6 @@
 </head>
 <body>
 <style>
-        /* Bestaande CSS-styling voor pagina */
         input {
             border: 0px;
             outline: 0px;
